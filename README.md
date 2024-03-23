@@ -68,6 +68,8 @@ Forensic OSINT,OSINT=*,Photosint,Extractor de correo electrónico,GMPlus
 <h2>Descarga</h2>
 Tras la descarga podéis usar uno de los bat creados, de manera que al ejecutarlo, os importará la maquina virtual y os lo abrirá (Tened cuidado con la ruta dentro del .bat):
 
+https://1drv.ms/f/c/4b5d422d0d0c7c51/EoGcwv6OkU1FroXR-l7HqRwBj7idv4j0Y95OEiYlUC7h3Q?e=39DS07
+
 Usuario: wolf
 Contraseña: wolf
 
